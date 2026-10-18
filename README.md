@@ -1,177 +1,163 @@
-<div align="center">
+# 👋 Hi, I'm Pranshu Verman
+### 🛡️ Cybersecurity Analyst | SOC Operations | IAM | AI Security
 
-<table>
-<tr>
-<td align="center" width="100%">
+Cybersecurity professional with experience in Identity & Access Management (IAM), vulnerability assessment, network security, and Linux administration. Passionate about security monitoring, access governance, vulnerability analysis, and exploring emerging threats to AI systems.
 
-<img src="https://lh3.googleusercontent.com/aida-public/AB6AXuCRtozZTae-iJGRMRf5OdtecLe3vRbR1c7mhPaU-cuBZvExyv9c0uRWaWIcpb2vBMcAL2SKIOi4MtOH-zTGy_pb9VliVp73lrgEXCk5YtLl-dMzoY1-rmAYLFed925Q1AjQ9ztRUuTrRJj3PFWO1pwE63St8LK2X75RAAUVGCxPbpYSOK4ea9q3uXmk82cZhQqKWUz2VMH-X2lTn6NtrmCI1-oE3URkdX0saheyM2mdIdDQO0E3lZe_hU-hK6jyKlSkIzo" width="92" alt="ZeR0CyB3r logo" />
+- 🔐 **Core Domains:** Cybersecurity, SOC, IAM, VAPT
+- 🤖 **Current Project:** NeuroFence — LLM Weight Poisoning & Backdoor Scanner
+- 🐧 **Interests:** Network Security, Linux Security, AI/LLM Security
+- 🎯 **Goal:** Building practical security solutions and advancing in information security
+- 📍 **Location:** Madhya Pradesh, India
 
-ZeR0CyB3r
-PRANSHU VERMAN
-CYBERSECURITY · SOC OPERATIONS · IAM · VAPT
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=FF0038&center=true&vCenter=true&width=620&lines=%3E+DEFEND+SYSTEMS;>+INVESTIGATE+THREATS;>+SECURE+IDENTITIES;>+BUILD+SECURITY+TOOLS" alt="Cybersecurity animated terminal text" />
+[![GitHub](https://img.shields.io/badge/GitHub-PranshuCyb3r-181717?style=for-the-badge&logo=github)](https://github.com/PranshuCyb3r)
+[![Cybersecurity](https://img.shields.io/badge/Domain-Cybersecurity-0A66C2?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/PranshuCyb3r)
 
-</td>
-</tr>
-</table>
+---
 
-<a href="https://zerocyb3r.netlify.app/"><img src="https://img.shields.io/badge/01_PORTFOLIO-FF0038?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
-<a href="https://github.com/PranshuCyb3r"><img src="https://img.shields.io/badge/02_GITHUB-18181B?style=flat-square&logo=github&logoColor=FF0038" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/pranshu-verman-2b39b9241/"><img src="https://img.shields.io/badge/03_LINKEDIN-18181B?style=flat-square&logo=linkedin&logoColor=FF0038" alt="LinkedIn" /></a>
-<a href="mailto:pranshuverman12@gmail.com"><img src="https://img.shields.io/badge/04_CONTACT-18181B?style=flat-square&logo=gmail&logoColor=FF0038" alt="Email" /></a>
-</div>
+## 🧑‍💻 About Me
 
-01 / OPERATOR PROFILE
-┌────────────────────────────────────────────────────────────────────┐
-│ CALLSIGN : ZeR0CyB3r                                               │
-│ OPERATOR : Pranshu Verman                                          │
-│ ROLE     : SOC Analyst | Information Security & IAM                │
-│ BASE     : Satna, Madhya Pradesh, India                            │
-│ FOCUS    : Security Operations • Identity Governance • VAPT        │
-│ STATUS   : Open to relevant Cybersecurity / SOC / IAM opportunities│
-└────────────────────────────────────────────────────────────────────┘
-I’m a cybersecurity professional with experience in Identity & Access Management (IAM), vulnerability assessment, web application security, network analysis, Linux administration, and security monitoring. I enjoy building practical security projects, learning through controlled labs, and translating technical findings into clear remediation steps.
-- 🔐 IAM & Governance: Access provisioning/de-provisioning, role management, access reviews, and least-privilege practices.
-- 🛡️ Security Operations: Security event monitoring, log analysis, risk assessment, and investigation workflows.
-- 🕸️ VAPT: Web application assessment, vulnerability identification, and remediation-focused reporting.
-- 🌐 Network Security: Nmap reconnaissance, Wireshark packet analysis, service discovery, and network troubleshooting.
-- 🐧 Systems: Linux / RHEL administration and Ansible automation.
-- 🧠 Current build: NeuroFence, a research project exploring forensic analysis of local LLM checkpoints and potential backdoor-related anomalies.
-MISSION: Identify risk. Validate evidence. Improve security.
+I have professional experience as an Identity & Access Management Analyst, along with hands-on exposure to cybersecurity through internships and practical projects. My interests include securing identities, analyzing vulnerabilities, investigating network activity, and improving organizational security practices.
 
-// 02. TECHNICAL ARSENAL
-<div align="center">
+- Identity lifecycle management, access provisioning, de-provisioning, and access reviews.
+- Identity governance, role management, and secure access control.
+- Vulnerability assessment and web application security testing.
+- Network traffic analysis, security monitoring, and log analysis.
+- Linux system administration and Ansible automation.
+- AI model security research and forensic analysis of local LLM checkpoints.
 
-Security Operations & Identity
-<img src="https://img.shields.io/badge/SOC%20Operations-111111?style=for-the-badge&logo=securityscorecard&logoColor=FF0038" />
-<img src="https://img.shields.io/badge/IAM%20%2F%20RBAC-111111?style=for-the-badge&logo=auth0&logoColor=FF0038" />
-<img src="https://img.shields.io/badge/Access%20Governance-111111?style=for-the-badge&logo=okta&logoColor=FF0038" />
-<img src="https://img.shields.io/badge/Log%20Analysis-111111?style=for-the-badge&logo=elastic&logoColor=FF0038" />
+I believe in continuous learning, responsible security research, and developing practical skills through hands-on projects.
 
-Vulnerability Assessment & Network Security
-<img src="https://img.shields.io/badge/Burp%20Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=FF6633" />
-<img src="https://img.shields.io/badge/Nmap-111111?style=for-the-badge&logo=linux&logoColor=FF0038" />
-<img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=1679A7" />
-<img src="https://img.shields.io/badge/Nessus-111111?style=for-the-badge&logo=tenable&logoColor=FF0038" />
-<img src="https://img.shields.io/badge/OpenVAS-111111?style=for-the-badge&logo=opensourceinitiative&logoColor=FF0038" />
-<img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=FF0038" />
+## 🛠️ Technical Skills
 
-Systems, Scripting & Engineering
-<img src="https://img.shields.io/badge/Linux%20%2F%20RHEL-111111?style=for-the-badge&logo=redhat&logoColor=EE0000" />
-<img src="https://img.shields.io/badge/Ansible-111111?style=for-the-badge&logo=ansible&logoColor=EE0000" />
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-111111?style=for-the-badge&logo=github&logoColor=FF0038" />
-<img src="https://img.shields.io/badge/HTML5%20%2F%20CSS3-111111?style=for-the-badge&logo=html5&logoColor=E34F26" />
+**Cybersecurity & Information Security**
 
-</div>
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A66C2?style=flat-square)
+![SOC Operations](https://img.shields.io/badge/SOC_Operations-263238?style=flat-square)
+![IAM](https://img.shields.io/badge/IAM-6C5CE7?style=flat-square)
+![VAPT](https://img.shields.io/badge/VAPT-C0392B?style=flat-square)
+![Network Security](https://img.shields.io/badge/Network_Security-117864?style=flat-square)
+![Log Analysis](https://img.shields.io/badge/Log_Analysis-34495E?style=flat-square)
+![Security Monitoring](https://img.shields.io/badge/Security_Monitoring-1F6FEB?style=flat-square)
 
-// 03. PROJECTS & SECURITY LABS
-🔴 NeuroFence — LLM Weight Poisoning & Backdoor Scanner
-<sub>IN PROGRESS · AI SECURITY / MODEL FORENSICS</sub>
-A local research and forensic-scanning project focused on inspecting downloaded .safetensors model checkpoints for architecture details and suspicious activation patterns that may warrant further investigation. Designed around an offline / isolated analysis workflow.
-- Reads checkpoint tensor metadata and reports architecture/projection information.
-- Explores activation inspection across transformer layers.
-- Includes a Matrix Inspector-style view for examining layer/cluster activation measurements.
-- Current development focus: GUI-to-PyTorch hook integration and strengthening the analysis workflow.
-- Planned / in-progress areas include adversarial prompt fuzzing, statistical signals such as Z-score and kurtosis, deeper inspection UI, and report generation.
-Stack / concepts: Python PyTorch Safetensors Hugging Face models Model Forensics
-Research note: anomaly signals are leads for investigation, not proof that a model is poisoned or backdoored.
+**Security Tools**
 
-🔴 NeuroFence-Scanner — Network Threat & Vulnerability Recon
-<sub>PORTFOLIO PROJECT</sub>
-A security scanner project described in the portfolio site, aimed at automating network discovery and service fingerprinting while presenting findings in a structured way.
-- Port, service, and protocol discovery.
-- Rule-based threat classification and packet-anomaly investigation concepts.
-- Structured Markdown / JSON remediation advisories.
-Stack: Python Nmap Network Reconnaissance Threat Analysis
-🔴 Web Application VAPT Scanner
-<sub>SECURITY LAB</sub>
-An assessment tool concept for evaluating common web application risks in authorized test environments.
-- Focus on OWASP Top 10 risk areas.
-- Checks for potential SQL injection, cross-site scripting, CSRF, local file inclusion, and authorization weaknesses.
-- Intended to organize findings with severity and remediation guidance.
-Stack: Python OWASP Top 10 Burp Suite VAPT
-🔴 VillanStudio — Security-Hardened Website
-<sub>WEB PLATFORM</sub>
-A responsive website project with a security-conscious implementation approach.
-- Content Security Policy and security-header hardening.
-- Input-handling and client-side injection risk reduction.
-- Responsive front-end structure.
-Stack: HTML CSS JavaScript Web Security
-🔴 Network Analysis & IAM Governance Lab
-<sub>NETWORK / BLUE TEAM LAB</sub>
-A lab combining network traffic review and access-governance concepts.
-- Nmap-based host/service discovery and Wireshark packet analysis.
-- RBAC / least-privilege review concepts.
-- Linux hardening and Ansible automation practice.
-Stack: Nmap Wireshark IAM RBAC Ansible RHEL
-🔴 Infotact Project
-<sub>COMPLETED</sub>
-I’ve completed the Infotact project. The files shared in this chat do not specify the project’s exact title, features, or technology stack, so I’m keeping this entry accurate rather than inventing details. Replace this short description with the final project summary and repository/demo link when available.
-Project status: Completed
-<div align="center">
-<a href="https://github.com/PranshuCyb3r?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-FF0038?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
-<a href="https://zerocyb3r.netlify.app/"><img src="https://img.shields.io/badge/OPEN%20LIVE%20PORTFOLIO-111111?style=for-the-badge&logo=netlify&logoColor=FF0038" alt="Live portfolio" /></a>
-</div>
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00A88F?style=flat-square)
+![OpenVAS](https://img.shields.io/badge/OpenVAS-3C873A?style=flat-square)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square)
 
-// 04. PROFESSIONAL EXPERIENCE
-<details>
-<summary><b>Identity & Access Management (IAM) Analyst — MNB Soft Solution</b> · Aug 2025 – Jun 2026</summary>
+**Programming, Systems & AI Security**
 
-- Supported identity lifecycle activities including access provisioning and de-provisioning.
-- Worked with role management, access reviews, and access governance processes.
-- Helped support compliance requirements and secure access control practices.</details>
-<details>
-<summary><b>Cyber Security Intern — Pinak Infosec C9LAB</b> · Apr 2024 – Jun 2024</summary>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![RHEL](https://img.shields.io/badge/Red_Hat_Enterprise_Linux-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Safetensors](https://img.shields.io/badge/Safetensors-Model_Forensics-6C5CE7?style=flat-square)
 
-- Participated in vulnerability assessment and web application security testing.
-- Analysed risk factors and documented findings with remediation guidance.</details>
-<details>
-<summary><b>Cyber Security Intern — Samyak IT Solutions</b> · Feb 2024 – Jun 2024</summary>
+## 🚀 Featured Projects
 
-- Assisted with vulnerability assessment, web application security testing, and security monitoring.
-- Helped document security risks and recommended remediation measures.</details>
-<details>
-<summary><b>Linux Ansible Administrator Intern — Rostris Infotech</b> · Jan 2022 – Apr 2022</summary>
+### 🧠 NeuroFence — LLM Weight Poisoning & Backdoor Scanner
+**Domain:** AI Security | LLM Security | Model Forensics
 
-- Worked with Linux / RHEL configuration, user management, and monitoring.
-- Supported routine administration tasks and Ansible automation.</details>
-// 05. CERTIFICATIONS
+NeuroFence is an offline forensic scanning project designed to investigate local Large Language Model (LLM) checkpoints for suspicious weight patterns and potential backdoor indicators before deployment.
+
+**Key Features & Objectives**
+- Analyze local `.safetensors` model checkpoints.
+- Inspect model architecture, transformer layers, and projection tensors.
+- Examine activation patterns for potentially suspicious anomalies.
+- Investigate possible trigger-related behavior during forensic analysis.
+- Support offline analysis in an isolated environment.
+
+**Technology Stack:** Python, PyTorch, Safetensors, Hugging Face ecosystem.
+
+**Research Note:** NeuroFence is a security research project. An anomaly alone does not establish that a model contains a backdoor; findings require further validation.
+
+### 🔍 Web Application Vulnerability Assessment (VAPT)
+**Domain:** Application Security
+
+A practical security assessment project focused on identifying potential web application vulnerabilities, evaluating security risks, and documenting findings with remediation recommendations.
+
+**Tools:** Burp Suite, Nmap, web security testing methodologies.
+
+### 🌐 Network Analysis Using Nmap & Wireshark
+**Domain:** Network Security
+
+A network analysis project focused on examining network traffic, understanding communication patterns, identifying unusual activity, and improving visibility into network behavior.
+
+**Tools:** Nmap, Wireshark, Linux.
+
+> Explore my repositories for available source code, implementation details, and project documentation.
+
+## 💼 Professional Experience
+
+### Identity & Access Management (IAM) Analyst
+**MNB Soft Solution | August 2025 – June 2026**
+- Supported user identity lifecycle management, access provisioning, and de-provisioning.
+- Worked with role management and user access reviews.
+- Supported identity governance, access control, and security compliance processes.
+
+### Cybersecurity Intern
+**Samyak IT Solutions | February 2024 – June 2024**
+- Gained practical exposure to cybersecurity activities and security assessment workflows.
+
+### Cybersecurity Intern
+**Pinak Infosec C9LAB | April 2024 – June 2024**
+- Worked on vulnerability assessment and web application security testing.
+- Assisted in identifying vulnerabilities and analyzing associated risks.
+- Supported security findings documentation and remediation recommendations.
+
+### Linux & Ansible Administrator Intern
+**Rostris Infotech | January 2022 – April 2022**
+- Worked with Linux system administration in RHEL environments.
+- Assisted with user management, system configuration, and server monitoring.
+- Gained experience with Ansible automation and routine administration tasks.
+
+## 🏅 Certifications
+
+- Google Cybersecurity Certificate
+- Ethical Hacking Essentials (EHE) — EC-Council
+- Cisco Cybersecurity
+- Cisco CyberOps
+
+## 🎓 Education
+
+**Master of Computer Applications (MCA)**  
+AKS University, Satna, Madhya Pradesh | 2022–2024
+
+**Bachelor of Computer Applications (BCA)**  
+AKS University, Satna, Madhya Pradesh | 2019–2022  
+CGPA: 6.1
+
+## 📊 GitHub Statistics
+
 <p align="center">
-<img src="https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Cybersecurity Certificate" />
-<img src="https://img.shields.io/badge/EC--Council-Ethical%20Hacking%20Essentials-111111?style=for-the-badge&logo=hackthebox&logoColor=FF0038" alt="Ethical Hacking Essentials" />
-<img src="https://img.shields.io/badge/EC--Council-Android%20Bug%20Bounty%20Hunting-111111?style=for-the-badge&logo=android&logoColor=3DDC84" alt="Android Bug Bounty Hunting" />
-<img src="https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Introduction to Cybersecurity" />
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Cybersecurity Essentials" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PranshuCyb3r&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution and repository statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranshuCyb3r&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used programming languages" />
 </p>
 
-// 06. EDUCATION
-Qualification	Institution	Period
-Master of Computer Applications (MCA)	AKS University, Satna	2022–2024
-Bachelor of Computer Applications (BCA)	AKS University, Satna	2019–2022
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=PranshuCyb3r&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
+## 🤝 Connect With Me
 
-// 07. GITHUB TELEMETRY
-<div align="center">
+I'm open to connecting with cybersecurity professionals, SOC analysts, IAM specialists, security researchers, recruiters, and developers working on security-focused solutions.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PranshuCyb3r&show_icons=true&hide_border=true&bg_color=09090B&title_color=FF0038&icon_color=FF0038&text_color=F4F4F5&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranshuCyb3r&layout=compact&hide_border=true&bg_color=09090B&title_color=FF0038&text_color=F4F4F5" alt="Most used languages" />
+- 📧 **Email:** [pranshuverman12@gmail.com](mailto:pranshuverman12@gmail.com)
+- 💻 **GitHub:** [PranshuCyb3r](https://github.com/PranshuCyb3r)
+- 🔗 **LinkedIn:** [Pranshu Verman](https://www.linkedin.com/in/pranshu-verman-2b39b9241/)
 
-<img src="https://streak-stats.demolab.com?user=PranshuCyb3r&hide_border=true&background=09090B&ring=FF0038&fire=FF0038&currStreakLabel=FF0038&sideLabels=F4F4F5&dates=A1A1AA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak" />
+---
 
-</div>
+<p align="center">
+  <i>"Learn continuously. Investigate responsibly. Build securely."</i>
+</p>
 
-<sub>Stats and animated graphics are served by external services and may occasionally load slowly.</sub>
-// 08. ESTABLISH CONNECTION
-<div align="center">
-
-Open to cybersecurity opportunities, collaborative labs, and security-focused projects.
-<a href="mailto:pranshuverman12@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF0038?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/pranshu-verman-2b39b9241/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://zerocyb3r.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=netlify&logoColor=FF0038" alt="Portfolio" /></a>
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FF0038" width="100%" alt="" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=900&color=FF0038&center=true&vCenter=true&width=650&lines=Stay+curious.+Stay+ethical.;Detect+%E2%80%A2+Investigate+%E2%80%A2+Defend.;ACCESS+GRANTED+%2F%2F+THANKS+FOR+VISITING" alt="Animated closing message" />
-
-</div>
+<p align="center">
+  ⭐ Thanks for visiting my GitHub profile!
+</p>
