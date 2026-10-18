@@ -17,14 +17,14 @@ Cybersecurity professional with experience in Identity and Access Management (IA
 
 My cybersecurity experience combines identity governance, vulnerability assessment, network analysis, and Linux system administration.
 
-During my professional experience as an IAM Analyst, I worked around identity lifecycle processes, access provisioning and de-provisioning, role management, and access reviews. My cybersecurity internships helped me gain practical exposure to security assessment workflows and web application testing. I also have experience with Linux administration and Ansible automation.
+As an IAM Analyst, I worked on identity lifecycle processes, access provisioning and de-provisioning, role management, and access reviews. My cybersecurity internships gave me hands-on experience with security assessment workflows and web application testing. I also have experience with Linux administration and Ansible automation.
 
 Alongside my professional background, I build independent projects to explore real-world security problems, including automated web vulnerability scanning, AI model forensics, and industrial control system security.
 
 ### Areas I Work On
 
 - Identity lifecycle management and access governance
-- User provisioning, de-provisioning, and role-based access
+- User provisioning, deprovisioning, and role-based access
 - Vulnerability assessment and web application security testing
 - Network reconnaissance and traffic analysis
 - Security tools, Linux administration, and automation
@@ -56,7 +56,7 @@ Alongside my professional background, I build independent projects to explore re
 **Domain:** AI Security · LLM Security · Model Forensics  
 **Repository:** [NeuroFence-scanner](https://github.com/PranshuCyb3r/NeuroFence-scanner)
 
-NeuroFence is an offline AI security research project designed to inspect local Large Language Model (LLM) checkpoints for suspicious weight patterns and potential backdoor-related activation behavior before deployment.
+NeuroFence is an offline AI security research project that inspects local Large Language Model (LLM) checkpoints for suspicious weight patterns and potential backdoor-related activation behavior before deployment.
 
 The project focuses on examining model files and architecture, monitoring activation behavior, and investigating whether specific prompts are associated with unusual model responses or internal activation patterns.
 
@@ -160,7 +160,7 @@ The repository structure alone does not establish that every authentication or b
 
 **Domain:** Portfolio Development · Web Application  
 **Repository:** [Pranshu](https://github.com/PranshuCyb3r/Pranshu)  
-**Portfolio:** [pranshu-sage.vercel.app](https://pranshu-sage.vercel.app/)
+**Portfolio:** [pranshu-Portfolio](https://zerocyb3r.netlify.app/)
 
 This repository contains a personal web application with frontend pages, styling, JavaScript assets, and Firebase-related configuration and security-rule files.
 
@@ -177,7 +177,7 @@ This repository contains a personal web application with frontend pages, styling
 
 **Learning outcomes:** Web application organization, separating frontend assets, authentication-related interface development, and working with backend service configuration.
 
-**Security consideration:** Firebase configuration, authentication flows, database rules, and environment secrets should be reviewed before deployment. Sensitive credentials must not be committed to a public repository.
+**Security considerations:** Firebase configuration, authentication flows, database rules, and environment secrets should be reviewed before deployment. Sensitive credentials must not be committed to a public repository.
 
 ---
 
@@ -259,4 +259,4 @@ I am interested in opportunities and collaboration related to cybersecurity anal
 
 ---
 
-*Learn continuously. Investigate responsibly. Build securely.*
+*Learn continuously. Investigate responsibly. Build securely. / ZeR0CyB3r* 
