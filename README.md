@@ -1,26 +1,27 @@
 <div align="center">
 
-<!-- ZeR0CyB3r logo from the portfolio website -->
-<a href="https://zerocyb3r.netlify.app/">
-  <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuCRtozZTae-iJGRMRf5OdtecLe3vRbR1c7mhPaU-cuBZvExyv9c0uRWaWIcpb2vBMcAL2SKIOi4MtOH-zTGy_pb9VliVp73lrgEXCk5YtLl-dMzoY1-rmAYLFed925Q1AjQ9ztRUuTrRJj3PFWO1pwE63St8LK2X75RAAUVGCxPbpYSOK4ea9q3uXmk82cZhQqKWUz2VMH-X2lTn6NtrmCI1-oE3URkdX0saheyM2mdIdDQO0E3lZe_hU-hK6jyKlSkIzo" width="112" alt="ZeR0CyB3r website logo" />
-</a>
+<table>
+<tr>
+<td align="center" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2600&pause=700&color=FF0038&center=true&vCenter=true&width=900&lines=PRANSHU+VERMAN;ZeR0CyB3r+%2F%2F+CYBERSECURITY;SOC+ANALYST+%7C+IAM+%7C+VAPT;DEFEND.+INVESTIGATE.+SECURE." alt="Animated cyber typing banner" />
+<img src="https://lh3.googleusercontent.com/aida-public/AB6AXuCRtozZTae-iJGRMRf5OdtecLe3vRbR1c7mhPaU-cuBZvExyv9c0uRWaWIcpb2vBMcAL2SKIOi4MtOH-zTGy_pb9VliVp73lrgEXCk5YtLl-dMzoY1-rmAYLFed925Q1AjQ9ztRUuTrRJj3PFWO1pwE63St8LK2X75RAAUVGCxPbpYSOK4ea9q3uXmk82cZhQqKWUz2VMH-X2lTn6NtrmCI1-oE3URkdX0saheyM2mdIdDQO0E3lZe_hU-hK6jyKlSkIzo" width="92" alt="ZeR0CyB3r logo" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=190&color=0:09090B,50:24000A,100:FF0038&text=ZeR0CyB3r&fontColor=FFFFFF&fontSize=58&fontAlignY=55&stroke=FF0038&strokeWidth=1&animation=twinkling" width="100%" alt="ZeR0CyB3r crimson cyber banner" />
+ZeR0CyB3r
+PRANSHU VERMAN
+CYBERSECURITY · SOC OPERATIONS · IAM · VAPT
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=FF0038&center=true&vCenter=true&width=620&lines=%3E+DEFEND+SYSTEMS;>+INVESTIGATE+THREATS;>+SECURE+IDENTITIES;>+BUILD+SECURITY+TOOLS" alt="Cybersecurity animated terminal text" />
 
-<p><strong>OFFENSIVE SEC · IAM · SECURITY OPERATIONS</strong></p>
-<p><code>// CALLSIGN: ZeR0CyB3r</code> &nbsp; <code>// BASE: SATNA, INDIA</code></p>
+</td>
+</tr>
+</table>
 
-<a href="https://zerocyb3r.netlify.app/"><img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-FF0038?style=for-the-badge&logo=netlify&logoColor=white" alt="Open portfolio website" /></a>
-<a href="https://github.com/PranshuCyb3r"><img src="https://img.shields.io/badge/GITHUB-09090B?style=for-the-badge&logo=github&logoColor=FF0038" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/pranshu-verman-2b39b9241/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:pranshuverman12@gmail.com"><img src="https://img.shields.io/badge/CONTACT-FF0038?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=PranshuCyb3r&label=PROFILE%20VISITS&color=ff0038&style=flat-square" alt="Profile views" />
-
+<a href="https://zerocyb3r.netlify.app/"><img src="https://img.shields.io/badge/01_PORTFOLIO-FF0038?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/PranshuCyb3r"><img src="https://img.shields.io/badge/02_GITHUB-18181B?style=flat-square&logo=github&logoColor=FF0038" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/pranshu-verman-2b39b9241/"><img src="https://img.shields.io/badge/03_LINKEDIN-18181B?style=flat-square&logo=linkedin&logoColor=FF0038" alt="LinkedIn" /></a>
+<a href="mailto:pranshuverman12@gmail.com"><img src="https://img.shields.io/badge/04_CONTACT-18181B?style=flat-square&logo=gmail&logoColor=FF0038" alt="Email" /></a>
 </div>
 
-// 01. OPERATOR PROFILE
+01 / OPERATOR PROFILE
 ┌────────────────────────────────────────────────────────────────────┐
 │ CALLSIGN : ZeR0CyB3r                                               │
 │ OPERATOR : Pranshu Verman                                          │
